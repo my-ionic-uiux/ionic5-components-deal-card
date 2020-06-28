@@ -1,0 +1,1 @@
+# ionic5-components-offer-card
